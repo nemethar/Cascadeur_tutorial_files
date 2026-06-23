@@ -1,6 +1,6 @@
 # Reusing poses in Cascadeur
 
-[![Watch the video](https://img.youtube.com/vi/-TODO/default.jpg)](https://youtu.be/-TODO)
+[![Watch the video](https://img.youtube.com/vi/ds6akcAVswc/default.jpg)](https://youtu.be/ds6akcAVswc)
 
 This script is made by Sdueq on the Cascadeur discord server. Original script is available here:
 https://discord.com/channels/553166696916189184/1385174935428792350/1450207101308633140
